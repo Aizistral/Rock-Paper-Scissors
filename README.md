@@ -148,11 +148,11 @@ Towards the end, it demonstrated prediction accuracy of ~90% during validation, 
 
 Immediately I paired it against Abbey, since that was the critical matchup that everything else hinged on. And to my profound shock, it demonstrated a winrate of over 90%! I ran it over an over again, and the winrate did fluctuate quite a lot. However, throughout all my tests it never dropped below 70%, and on average it was ~85%.
 
-I double-checked, triple-checked, and quite frankly, quadruple-checked my code, to make sure I didn't mess anything up and what I observed was the real data. It was! I also verified that it performed well against other bots, and sure enough, against every other one it scored 90%+ winrates consistently.
+I double-checked, triple-checked, and quite frankly, quadruple-checked my code, to make sure I didn't mess anything up and what I observed was the real data. It was! I also verified that it performed well against other bots, and sure enough, against every other one it scored ~90% winrates consistently.
 
 As such, I dubbed my new model "Obliterator", and as you may expect, it remains my final solution to this project.
 
-You may find Obliterator's file at `model/obliterator.keras` in this repository. There is also exactly the same model in `.h5` format, which it is loaded into `RPS.py` and used to make moves. I had to switch formats when deploying my solution for Replit, because for some reason it would fail to load the `.keras` model...
+You may find Obliterator's file at `model/obliterator.keras` in this repository. There is also exactly the same model in `.h5` format, which is loaded into `RPS.py` and used to make moves. I had to switch formats when deploying my solution for Replit, because for some reason it would fail to load the `.keras` model...
 
 You may also find the exact dataset I used to train it with at `data/obliterator_training_data.zip` - this compressed archive contains appropriately named `obliterator_training_data.json`. The code I used to create and train the model is located in `pain_train.py`.
 
