@@ -1,6 +1,6 @@
 # Rock Paper Scissors
 
-In front of you lies a project that consumed good 3 days of my life. Granted the complexity and specific details of my final solution, I feel like a little justification is required, so here we go.
+In front of you lies a project that consumed no less than 3 days of my life. Granted the complexity and specific details of my final solution, I feel like a little justification is required, so here we go.
 
 ## The Problem
 
