@@ -4,7 +4,7 @@ In front of you lies a project that consumed no less than 3 days of my life. Gra
 
 ## The Problem
 
-You may familiarize yourself with project requirements provided by freeCodeCamp here: https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors
+You may familiarize yourself with project requirements as provided by freeCodeCamp here: https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors
 
 First and foremost, I feel obliged to state that the scope of this particular assignment is *incredibly* unclear. It fails to make it evident which approach the assignee is expected to take, or answer the most natural questions about what they are or aren't allowed to do. For instance:
 
@@ -20,7 +20,7 @@ First and foremost, I feel obliged to state that the scope of this particular as
 
 The assignment doesn't even say where exactly machine learning is supposed to come into picture, or if it is indeed mandatory for it to come into picture at all. While other certification projects have a clear counterpart that was explored in the curriculum, there is no such thing for this one, leaving the unfortunate assignee completely lost.
 
-I will admit that in the end, I enjoyed the challenging and open-ended nature of this assignment, and had a lot of fun experimenting with different approaches. However, I feel like it would simply be *too much* for most people, forcing them to either give up or resort to copying someone else's solution. This is especially bad considering that this is the first certification project on the list, and none of the other ones are even remotely as challenging.
+I will admit that in the end, I enjoyed the challenging and open-ended nature of this assignment, and had a lot of fun experimenting with different approaches. However, I feel like it will simply be *too much* for most people, forcing them to either give up or resort to copying someone else's solution. This is especially bad considering that this is the first certification project on the list, and none of the other ones are even remotely as challenging.
 
 ## Assumptions
 
