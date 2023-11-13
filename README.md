@@ -152,7 +152,9 @@ I double-checked, triple-checked, and quite frankly, quadruple-checked my code, 
 
 As such, I dubbed my new model "Obliterator", and as you may expect, it remains my final solution to this project.
 
-You may find Obliterator's file at `model/obliterator.keras` in this repository, from where it is loaded into `RPS.py` and used to make moves. You may also find the exact dataset I used to train it with at `data/obliterator_training_data.zip` - this compressed archive contains appropriately named `obliterator_training_data.json`. The code I used to create and train the model is located in `pain_train.py`.
+You may find Obliterator's file at `model/obliterator.keras` in this repository. There is also exactly the same model in `.h5` format, which it is loaded into `RPS.py` and used to make moves. I had to switch formats when deploying my solution for Replit, because for some reason it would fail to load the `.keras` model...
+
+You may also find the exact dataset I used to train it with at `data/obliterator_training_data.zip` - this compressed archive contains appropriately named `obliterator_training_data.json`. The code I used to create and train the model is located in `pain_train.py`.
 
 ## Advanced Tests
 

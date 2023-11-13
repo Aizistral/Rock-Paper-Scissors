@@ -72,7 +72,7 @@ class Obliterator:
 
 # I put the variables here because God did not intend default parameters to be used for persistence
 game_history = GameHistory()
-obliterator = Obliterator("./model/obliterator.keras")
+obliterator = Obliterator("./model/obliterator.h5")
 
 
 # This function is responsible for teaching the enemy bots the true meaning of fear
